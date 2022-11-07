@@ -1,4 +1,4 @@
-# GUI-DB
+# Graphic User Interface integrated into Database
 Repository to share a GUI integrated with a database
 
 ### Context
